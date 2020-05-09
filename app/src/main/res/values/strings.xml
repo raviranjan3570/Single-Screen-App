@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">CC Jitters</string>
+    <string name="coffee_in_a_flash">Coffee In A Flash</string>
+    <string name="number">(061) 123–456</string>
+    <string name="website">cc_jitters.com</string>
+    <string name="address">Mountain view, CA</string>
+    <string name="logo_description">Logo of the coffee house</string>
 </resources>
